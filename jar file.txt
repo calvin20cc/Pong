@@ -1,0 +1,4 @@
+get java and class files to new file
+project>>create new project>>add main class
+project>>create jar file from project>>jar classes, make executable, save file destination
+add .jar extension
